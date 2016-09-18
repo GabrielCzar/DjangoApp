@@ -1,5 +1,12 @@
+# gitignore.io
+*.log
+*.pot
+local_settings.py
+
+#GabrielCzar
 *.pyc
 __pycache__
 myvenv
 db.sqlite3
 .DS_Store
+.coverage
